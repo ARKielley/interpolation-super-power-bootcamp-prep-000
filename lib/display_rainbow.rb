@@ -1,1 +1,2 @@
-# Write your #display_rainbow method her
+# Write your #display_rainbow method here
+def pri
